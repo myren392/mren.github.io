@@ -18,9 +18,8 @@ design:
 
 ---
 
-<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="ham4qiyju4gpfz9"></script>
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="daghgmzwfw7i4y8"></script>
 
-{{< cta cta_text="Download" cta_link="https://www.dropbox.com/s/e8n0l83yknn60bt/CV.pdf" cta_new_tab="true">}}
+{{< cta cta_text="Download" cta_link="https://www.dropbox.com/scl/fi/b3va44jex1y7uhg6kc4jg/SSRN-id4345300.pdf?rlkey=b96mc4mnc85blzvb59t61d1lw&st=4vp8s683&dl=0" cta_new_tab="true">}}
 
-<a href="https://www.dropbox.com/s/e8n0l83yknn60bt/CV.pdf" class="dropbox-embed" data-height="700px"></a>
-
+<a href="https://www.dropbox.com/scl/fi/b3va44jex1y7uhg6kc4jg/SSRN-id4345300.pdf?rlkey=b96mc4mnc85blzvb59t61d1lw&st=4vp8s683&dl=0" class="dropbox-embed" data-height="700px"></a>
