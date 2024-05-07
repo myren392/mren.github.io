@@ -1,124 +1,105 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Zhenxuan Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhenxuan
+last_name: Wang
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Duke University
+    url: https://www.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie at the intersection of environmental and energy economics, climate policy, development economics, and public economics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental & Energy Economics
+  - Development Economics
+  - Public Economics
+  - Climate Policy
+  - Energy Transition
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    - course: Ph.D. in Environmental Policy 
+      institution: Duke University
+      year: 2024 
+    - course: M.A. in Economics 
+      institution: Duke University
+      year: 2024  
+    - course: B.A. in Economics
+      institution: Wuhan University
+      year: 2017
+    - course: B.Sc. in Mathematics
+      institution: Wuhan University
+      year: 2017
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:zhenxuan.wang@duke.edu
+  - icon: cv
+    icon_pack: ai
+    link: 'https://www.dropbox.com/s/e8n0l83yknn60bt/CV.pdf'
+  - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack; graduation-cap
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=Fm57_2cAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/whuxuan
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/zhenxuan_wang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhenxuan-wang-econ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+<!-- Zhenxuan is a Ph.D. Candidate in Environmental Economics and a [James B. Duke Fellow](https://gradschool.duke.edu/about/news/history-spotlight-james-b-duke-fellowship) at Duke University. He is also an [Energy Fellow](https://energy.duke.edu/about/energy-fellows) at the [Nicholas Institute for Energy, Environment & Sustainability](https://energy.duke.edu/), a [Fellow](https://energy.duke.edu/energy-data-analytics-phd-student-fellows) at the [Energy Data Analytics Lab](https://energy.duke.edu/research/energy-data), and a [Student Fellow](https://energyaccess.duke.edu/team/zhenxuan/) affiliated with [The James E. Rogers Energy Access Project](https://energyaccess.duke.edu/). -->
+
+I am a Ph.D. Candidate in [Environmental Policy (Economics Track)](https://nicholas.duke.edu/academics/doctoral-programs/university-program-environmental-policy-upep) at Duke University. I am also a [James B. Duke Fellow](https://gradschool.duke.edu/about/news/history-spotlight-james-b-duke-fellowship) and a student fellow affiliated with the [Nicholas Institute for Energy, Environment & Sustainability](https://energy.duke.edu/about/energy-fellows) and the [James E. Rogers Energy Access Project](https://energyaccess.duke.edu/team/zhenxuan/).
+
+I am interested in environmental and energy economics, climate policy, development economics, and public economics. My research topics encompass energy transition, climate change mitigation and adaptation, innovation and development, and environmental regulation. I aim to tackle pressing policy issues tied to environmental and energy challenges in the US and emerging economies, by integrating microeconomic theory, innovative data, and advanced econometric tools. My recent work focuses on:
+* Energy transition, electrification, and policy designs for the net-zero emissions target
+* Climate change mitigation, adaptation, and resilience
+* Welfare impacts of technology upgrades and infrastructure investments in the electricity sector
+* Information, risk perception, and household behavior
+
+Prior to Duke, I was a research associate at the [Environmental Research Center](https://dukekunshan.edu.cn/en/environment/about-research) of [Duke Kunshan University](https://dukekunshan.edu.cn/). I received my B.A. in Economics and B.Sc. in Mathematics from [Wuhan University](https://www.whu.edu.cn/).
+
+The pronunciation of my name is similar to /dʒɛn ʃwɑn wɒŋ/. In Chinese, it is 王振轩.
+
+🔎**I am on the 2023-24 job market.**
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+<!-- {style="text-align: justify;"} -->
